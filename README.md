@@ -20,6 +20,7 @@ The analysis I use is to find out the number of provinces that participated and 
 4. Gender participant: males are superior in the number of females at the high school and junior high school levels
 5. Gender Medalist: Male is superior in number to female at the high school and junior high school levels
 
+**Advice**
 1. Increase participation from underrepresented provinces by providing training and logistical support.
 2. Expand access to training and resources in non-flagship provinces to increase medal opportunities.
 3. Encourage women's participation through mentorship programs, scholarships, and inspirational campaigns.
