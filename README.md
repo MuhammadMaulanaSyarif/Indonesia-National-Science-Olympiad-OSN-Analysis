@@ -25,3 +25,7 @@ The analysis I use is to find out the number of provinces that participated and 
 2. Expand access to training and resources in non-flagship provinces to increase medal opportunities.
 3. Encourage women's participation through mentorship programs, scholarships, and inspirational campaigns.
 4. Provide feedback and follow-up training for non-medalist participants to improve their competencies.
+
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on LinkedIn and Email : maulanaballrace23@gmail.com and https://www.linkedin.com/in/muhammad-maulana-syarif-0b5967337/
+
+#R #EDA #IndonesiaNationalScienceOlympiad #OSN
